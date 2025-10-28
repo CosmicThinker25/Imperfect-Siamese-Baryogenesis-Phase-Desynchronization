@@ -1,0 +1,17 @@
+{
+  "axis": {
+    "RA": 170.0,
+    "Dec": 40.0,
+    "phi0": 135.0
+  },
+  "resolution": {
+    "lon": 1440,
+    "lat": 720
+  },
+  "outputs": [
+    "cmb_Q_map_v3_4_highres.png",
+    "cmb_U_map_v3_4_highres.png",
+    "cmb_EB_proxy_map_v3_4_highres.png",
+    "cmb_collage_v3_4_highres.png"
+  ]
+}
